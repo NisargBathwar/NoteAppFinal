@@ -17,7 +17,7 @@ This app allows users to create, edit, delete, and manage notes with a clean UI 
 - ViewModel
 - StateFlow
 - MVVM Architecture
-- Fake Repository Pattern
+- Repository Pattern
 
 ## Architecture
 UI → ViewModel → Repo → State → UI
